@@ -1,0 +1,20 @@
+﻿CanaryLauncher
+
+
+winexe
+C#
+.cs
+C:\Users\samue\OneDrive\Área de Trabalho\Perebas\ot-launcher\obj\Debug\
+CanaryLauncher
+none
+false
+DEBUG;TRACE
+
+3138698893
+
+51776340662
+141662518811
+src\App.xaml;src\MainWindow.xaml;src\SplashScreen.xaml;
+
+True
+
