@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "PerebasOT",
-	"newClientUrl": "https://github.com/samuelbfg/ot-launcher/releases/download/v0.9/perebasot-client.zip",
+	"newClientUrl": "https://github.com/samuelbfg/ot-launcher/releases/download/v0.9.1/perebasot-client.zip",
 	"clientExecutable": "PerebasOT.exe"
 }
