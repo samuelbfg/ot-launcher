@@ -1,4 +1,4 @@
 PerebasOT Client.
 
 For more information:
-https://www.perebasot.site
+https://www.perebasot.com
